@@ -1,4 +1,3 @@
-```markdown
 # broadcom-vmware-workstation-downloader
 
 ## Description
@@ -51,4 +50,3 @@ Please ensure that your code adheres to the project's coding standards and is we
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-```
